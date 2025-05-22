@@ -9,7 +9,7 @@ My name is Adepetu Oluwasegun I'm a Cloud and DevOps Engineer passionate about b
 
 
 ### 🚀 About Me
-🔭 Just completed a diploma in Cloud Engineering — now building and deploying real-world cloud projects.  
+🔭 Just completed a diploma in Cloud Engineering and now building and deploying real-world cloud projects.  
 🌱 Currently sharpening my skills in Devops and Kubernetes operations.  
 👯 Open to collaborating on open source projects involving DevOps, cloud-native tools.  
 💼 Job Interests: Cloud Engineer or DevOps Engineer 
