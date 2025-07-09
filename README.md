@@ -12,6 +12,7 @@ My name is Adepetu Oluwasegun I'm a Cloud and DevOps Engineer passionate about b
 🌱 Currently sharpening my skills in Devops and Kubernetes operations.  
 👯 Open to collaborating on open source projects involving DevOps, cloud-native tools.  
 💼 Job Interests: Cloud/ Devops (Intern or Junior level)
+
 📫 Reach me directly at: oluwasegunadepetu@gmail.com  
 
 ---
