@@ -17,4 +17,4 @@ My name is Adepetu Oluwasegun I'm a Cloud and DevOps Engineer passionate about b
 
 ---
 
-Let's connect and build something impactful 
+Let's connect and build something impactful
