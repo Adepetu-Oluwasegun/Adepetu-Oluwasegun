@@ -12,7 +12,7 @@ I'm a Cloud and DevOps Engineer passionate about building reliable, scalable, an
 👯 Open to collaborating on open source projects involving DevOps, cloud-native tools.  
 💼 Job Interests: Cloud/ Devops (Intern or Junior level)
 
-📫 Reach me directly at: oluwasegunadepetu@gmail.com  
+📫 You can reach me directly at: oluwasegunadepetu@gmail.com  
 
 ---
 
